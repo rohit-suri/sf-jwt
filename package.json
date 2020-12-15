@@ -1,0 +1,17 @@
+{
+  "name": "sf-jwt-node",
+  "version": "1.0.0",
+  "description": "SF JWT Connection",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohit Suri",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "jsforce": "^1.10.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1"
+  }
+}
